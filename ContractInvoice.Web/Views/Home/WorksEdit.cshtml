@@ -1,0 +1,53 @@
+﻿@model ContractInvoice.Model.Entities.Work
+
+<div class="text-center">
+    <h1>Суммирование времени работы за проектами.</h1>
+    <div>
+        <form asp-controller="Home" asp-action="WorksEdit" method="post">
+            <input type="hidden" asp-for="Id" />
+            <div asp-validation-summary="All"></div>
+
+            <div>
+                <label asp-for="Id"></label>
+                <input asp-for="Id" />
+                <span asp-validation-for="Id"></span>
+            </div>
+            <div>
+                <label asp-for="ProjectId"></label>
+                <textarea asp-for="ProjectId"></textarea>
+                <span asp-validation-for="ProjectId"></span>
+            </div>
+            <div>
+                <label asp-for="CreatedDate"></label>
+                <textarea asp-for="CreatedDate"></textarea>
+                <span asp-validation-for="CreatedDate"></span>
+            </div>
+            <div>
+                <label asp-for="CreatedById"></label>
+                <textarea asp-for="CreatedById"></textarea>
+                <span asp-validation-for="CreatedById"></span>
+            </div>
+            <div>
+                <label asp-for="ModifiedDate"></label>
+                <textarea asp-for="ModifiedDate"></textarea>
+                <span asp-validation-for="ModifiedDate"></span>
+            </div>
+            <div>
+                <label asp-for="ModifiedById"></label>
+                <textarea asp-for="ModifiedById"></textarea>
+                <span asp-validation-for="ModifiedById"></span>
+            </div>
+            <div>
+                <label asp-for="HoursWorked"></label>
+                <textarea asp-for="HoursWorked"></textarea>
+                <span asp-validation-for="HoursWorked"></span>
+            </div>
+            <div>
+                <label asp-for="DateWorked"></label>
+                <textarea asp-for="DateWorked"></textarea>
+                <span asp-validation-for="DateWorked"></span>
+            </div>
+            <input type="submit" value="Сохранить" />
+        </form>
+    </div>
+</div>

@@ -1,0 +1,85 @@
+﻿@model IEnumerable<ContractInvoice.Model.Entities.Project>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Project</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Business)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NameProject)
+            </th>
+            <th style="white-space: nowrap">
+                @Html.DisplayNameFor(model => model.CreatedDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CreatedBy)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ModifiedDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ModifiedBy)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HoursWorked)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateWorked)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var project in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => project.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => project.Business)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => project.NameProject)
+            </td>
+            <td>
+                @project.CreatedDate.ToShortDateString()
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => project.CreatedBy)
+            </td>
+            <td>
+                @project.ModifiedDate.ToShortDateString()
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => project.ModifiedBy)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => project.HoursWorked)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => project.DateWorked)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@project.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@project.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@project.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,162 @@
+C:\Users\svyat\source\repos\ContractInvoice\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Data.deps.json
+C:\Users\svyat\source\repos\ContractInvoice\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Data.runtimeconfig.json
+C:\Users\svyat\source\repos\ContractInvoice\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Data.runtimeconfig.dev.json
+C:\Users\svyat\source\repos\ContractInvoice\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Data.dll
+C:\Users\svyat\source\repos\ContractInvoice\ContractInvoice.Data\bin\Debug\net5.0\ref\ContractInvoice.Data.dll
+C:\Users\svyat\source\repos\ContractInvoice\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Data.pdb
+C:\Users\svyat\source\repos\ContractInvoice\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Model.dll
+C:\Users\svyat\source\repos\ContractInvoice\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Model.pdb
+C:\Users\svyat\source\repos\ContractInvoice\ContractInvoice.Data\obj\Debug\net5.0\Data.csproj.AssemblyReference.cache
+C:\Users\svyat\source\repos\ContractInvoice\ContractInvoice.Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svyat\source\repos\ContractInvoice\ContractInvoice.Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+C:\Users\svyat\source\repos\ContractInvoice\ContractInvoice.Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+C:\Users\svyat\source\repos\ContractInvoice\ContractInvoice.Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\svyat\source\repos\ContractInvoice\ContractInvoice.Data\obj\Debug\net5.0\Data.csproj.CopyComplete
+C:\Users\svyat\source\repos\ContractInvoice\ContractInvoice.Data\obj\Debug\net5.0\ContractInvoice.Data.dll
+C:\Users\svyat\source\repos\ContractInvoice\ContractInvoice.Data\obj\Debug\net5.0\ref\ContractInvoice.Data.dll
+C:\Users\svyat\source\repos\ContractInvoice\ContractInvoice.Data\obj\Debug\net5.0\ContractInvoice.Data.pdb
+C:\Users\svyat\source\repos\ContractInvoice\ContractInvoice.Data\obj\Debug\net5.0\Data.genruntimeconfig.cache
+d:\Программирование\С#\C#_archiv\ContractInvoice\июль\01.07.2021 ContractInvoice rep small до Async\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Data.deps.json
+d:\Программирование\С#\C#_archiv\ContractInvoice\июль\01.07.2021 ContractInvoice rep small до Async\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Data.runtimeconfig.json
+d:\Программирование\С#\C#_archiv\ContractInvoice\июль\01.07.2021 ContractInvoice rep small до Async\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Data.runtimeconfig.dev.json
+d:\Программирование\С#\C#_archiv\ContractInvoice\июль\01.07.2021 ContractInvoice rep small до Async\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Data.dll
+d:\Программирование\С#\C#_archiv\ContractInvoice\июль\01.07.2021 ContractInvoice rep small до Async\ContractInvoice.Data\bin\Debug\net5.0\ref\ContractInvoice.Data.dll
+d:\Программирование\С#\C#_archiv\ContractInvoice\июль\01.07.2021 ContractInvoice rep small до Async\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Data.pdb
+d:\Программирование\С#\C#_archiv\ContractInvoice\июль\01.07.2021 ContractInvoice rep small до Async\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Model.dll
+d:\Программирование\С#\C#_archiv\ContractInvoice\июль\01.07.2021 ContractInvoice rep small до Async\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Model.pdb
+d:\Программирование\С#\C#_archiv\ContractInvoice\июль\01.07.2021 ContractInvoice rep small до Async\ContractInvoice.Data\obj\Debug\net5.0\Data.csproj.AssemblyReference.cache
+d:\Программирование\С#\C#_archiv\ContractInvoice\июль\01.07.2021 ContractInvoice rep small до Async\ContractInvoice.Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+d:\Программирование\С#\C#_archiv\ContractInvoice\июль\01.07.2021 ContractInvoice rep small до Async\ContractInvoice.Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+d:\Программирование\С#\C#_archiv\ContractInvoice\июль\01.07.2021 ContractInvoice rep small до Async\ContractInvoice.Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+d:\Программирование\С#\C#_archiv\ContractInvoice\июль\01.07.2021 ContractInvoice rep small до Async\ContractInvoice.Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache
+d:\Программирование\С#\C#_archiv\ContractInvoice\июль\01.07.2021 ContractInvoice rep small до Async\ContractInvoice.Data\obj\Debug\net5.0\Data.csproj.CopyComplete
+d:\Программирование\С#\C#_archiv\ContractInvoice\июль\01.07.2021 ContractInvoice rep small до Async\ContractInvoice.Data\obj\Debug\net5.0\ContractInvoice.Data.dll
+d:\Программирование\С#\C#_archiv\ContractInvoice\июль\01.07.2021 ContractInvoice rep small до Async\ContractInvoice.Data\obj\Debug\net5.0\ref\ContractInvoice.Data.dll
+d:\Программирование\С#\C#_archiv\ContractInvoice\июль\01.07.2021 ContractInvoice rep small до Async\ContractInvoice.Data\obj\Debug\net5.0\ContractInvoice.Data.pdb
+d:\Программирование\С#\C#_archiv\ContractInvoice\июль\01.07.2021 ContractInvoice rep small до Async\ContractInvoice.Data\obj\Debug\net5.0\Data.genruntimeconfig.cache
+d:\Программирование\С#\C#_archiv\ContractInvoice\август Sagan 10.08.21\Alekseev мой cshtml\16.08.21 ContractInvoice мой cshtml\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Data.deps.json
+d:\Программирование\С#\C#_archiv\ContractInvoice\август Sagan 10.08.21\Alekseev мой cshtml\16.08.21 ContractInvoice мой cshtml\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Data.runtimeconfig.json
+d:\Программирование\С#\C#_archiv\ContractInvoice\август Sagan 10.08.21\Alekseev мой cshtml\16.08.21 ContractInvoice мой cshtml\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Data.runtimeconfig.dev.json
+d:\Программирование\С#\C#_archiv\ContractInvoice\август Sagan 10.08.21\Alekseev мой cshtml\16.08.21 ContractInvoice мой cshtml\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Data.dll
+d:\Программирование\С#\C#_archiv\ContractInvoice\август Sagan 10.08.21\Alekseev мой cshtml\16.08.21 ContractInvoice мой cshtml\ContractInvoice.Data\bin\Debug\net5.0\ref\ContractInvoice.Data.dll
+d:\Программирование\С#\C#_archiv\ContractInvoice\август Sagan 10.08.21\Alekseev мой cshtml\16.08.21 ContractInvoice мой cshtml\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Data.pdb
+d:\Программирование\С#\C#_archiv\ContractInvoice\август Sagan 10.08.21\Alekseev мой cshtml\16.08.21 ContractInvoice мой cshtml\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Model.dll
+d:\Программирование\С#\C#_archiv\ContractInvoice\август Sagan 10.08.21\Alekseev мой cshtml\16.08.21 ContractInvoice мой cshtml\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Model.pdb
+d:\Программирование\С#\C#_archiv\ContractInvoice\август Sagan 10.08.21\Alekseev мой cshtml\16.08.21 ContractInvoice мой cshtml\ContractInvoice.Data\obj\Debug\net5.0\Data.csproj.AssemblyReference.cache
+d:\Программирование\С#\C#_archiv\ContractInvoice\август Sagan 10.08.21\Alekseev мой cshtml\16.08.21 ContractInvoice мой cshtml\ContractInvoice.Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+d:\Программирование\С#\C#_archiv\ContractInvoice\август Sagan 10.08.21\Alekseev мой cshtml\16.08.21 ContractInvoice мой cshtml\ContractInvoice.Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+d:\Программирование\С#\C#_archiv\ContractInvoice\август Sagan 10.08.21\Alekseev мой cshtml\16.08.21 ContractInvoice мой cshtml\ContractInvoice.Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+d:\Программирование\С#\C#_archiv\ContractInvoice\август Sagan 10.08.21\Alekseev мой cshtml\16.08.21 ContractInvoice мой cshtml\ContractInvoice.Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache
+d:\Программирование\С#\C#_archiv\ContractInvoice\август Sagan 10.08.21\Alekseev мой cshtml\16.08.21 ContractInvoice мой cshtml\ContractInvoice.Data\obj\Debug\net5.0\Data.csproj.CopyComplete
+d:\Программирование\С#\C#_archiv\ContractInvoice\август Sagan 10.08.21\Alekseev мой cshtml\16.08.21 ContractInvoice мой cshtml\ContractInvoice.Data\obj\Debug\net5.0\ContractInvoice.Data.dll
+d:\Программирование\С#\C#_archiv\ContractInvoice\август Sagan 10.08.21\Alekseev мой cshtml\16.08.21 ContractInvoice мой cshtml\ContractInvoice.Data\obj\Debug\net5.0\ref\ContractInvoice.Data.dll
+d:\Программирование\С#\C#_archiv\ContractInvoice\август Sagan 10.08.21\Alekseev мой cshtml\16.08.21 ContractInvoice мой cshtml\ContractInvoice.Data\obj\Debug\net5.0\ContractInvoice.Data.pdb
+d:\Программирование\С#\C#_archiv\ContractInvoice\август Sagan 10.08.21\Alekseev мой cshtml\16.08.21 ContractInvoice мой cshtml\ContractInvoice.Data\obj\Debug\net5.0\Data.genruntimeconfig.cache
+c:\Users\svyat\source\repos\23.08.2021 ContractI\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Data.deps.json
+c:\Users\svyat\source\repos\23.08.2021 ContractI\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Data.runtimeconfig.json
+c:\Users\svyat\source\repos\23.08.2021 ContractI\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Data.runtimeconfig.dev.json
+c:\Users\svyat\source\repos\23.08.2021 ContractI\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Data.dll
+c:\Users\svyat\source\repos\23.08.2021 ContractI\ContractInvoice.Data\bin\Debug\net5.0\ref\ContractInvoice.Data.dll
+c:\Users\svyat\source\repos\23.08.2021 ContractI\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Data.pdb
+c:\Users\svyat\source\repos\23.08.2021 ContractI\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Model.dll
+c:\Users\svyat\source\repos\23.08.2021 ContractI\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Model.pdb
+c:\Users\svyat\source\repos\23.08.2021 ContractI\ContractInvoice.Data\obj\Debug\net5.0\Data.csproj.AssemblyReference.cache
+c:\Users\svyat\source\repos\23.08.2021 ContractI\ContractInvoice.Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\svyat\source\repos\23.08.2021 ContractI\ContractInvoice.Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+c:\Users\svyat\source\repos\23.08.2021 ContractI\ContractInvoice.Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+c:\Users\svyat\source\repos\23.08.2021 ContractI\ContractInvoice.Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache
+c:\Users\svyat\source\repos\23.08.2021 ContractI\ContractInvoice.Data\obj\Debug\net5.0\Data.csproj.CopyComplete
+c:\Users\svyat\source\repos\23.08.2021 ContractI\ContractInvoice.Data\obj\Debug\net5.0\ContractInvoice.Data.dll
+c:\Users\svyat\source\repos\23.08.2021 ContractI\ContractInvoice.Data\obj\Debug\net5.0\ref\ContractInvoice.Data.dll
+c:\Users\svyat\source\repos\23.08.2021 ContractI\ContractInvoice.Data\obj\Debug\net5.0\ContractInvoice.Data.pdb
+c:\Users\svyat\source\repos\23.08.2021 ContractI\ContractInvoice.Data\obj\Debug\net5.0\Data.genruntimeconfig.cache
+c:\Users\svyat\source\repos\25.08.2021 ContractI\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Data.deps.json
+c:\Users\svyat\source\repos\25.08.2021 ContractI\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Data.runtimeconfig.json
+c:\Users\svyat\source\repos\25.08.2021 ContractI\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Data.runtimeconfig.dev.json
+c:\Users\svyat\source\repos\25.08.2021 ContractI\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Data.dll
+c:\Users\svyat\source\repos\25.08.2021 ContractI\ContractInvoice.Data\bin\Debug\net5.0\ref\ContractInvoice.Data.dll
+c:\Users\svyat\source\repos\25.08.2021 ContractI\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Data.pdb
+c:\Users\svyat\source\repos\25.08.2021 ContractI\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Model.dll
+c:\Users\svyat\source\repos\25.08.2021 ContractI\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Model.pdb
+c:\Users\svyat\source\repos\25.08.2021 ContractI\ContractInvoice.Data\obj\Debug\net5.0\Data.csproj.AssemblyReference.cache
+c:\Users\svyat\source\repos\25.08.2021 ContractI\ContractInvoice.Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\svyat\source\repos\25.08.2021 ContractI\ContractInvoice.Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+c:\Users\svyat\source\repos\25.08.2021 ContractI\ContractInvoice.Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+c:\Users\svyat\source\repos\25.08.2021 ContractI\ContractInvoice.Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache
+c:\Users\svyat\source\repos\25.08.2021 ContractI\ContractInvoice.Data\obj\Debug\net5.0\Data.csproj.CopyComplete
+c:\Users\svyat\source\repos\25.08.2021 ContractI\ContractInvoice.Data\obj\Debug\net5.0\ContractInvoice.Data.dll
+c:\Users\svyat\source\repos\25.08.2021 ContractI\ContractInvoice.Data\obj\Debug\net5.0\ref\ContractInvoice.Data.dll
+c:\Users\svyat\source\repos\25.08.2021 ContractI\ContractInvoice.Data\obj\Debug\net5.0\ContractInvoice.Data.pdb
+c:\Users\svyat\source\repos\25.08.2021 ContractI\ContractInvoice.Data\obj\Debug\net5.0\Data.genruntimeconfig.cache
+c:\Users\svyat\source\repos\02.09.2021 ContractI\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Data.deps.json
+c:\Users\svyat\source\repos\02.09.2021 ContractI\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Data.runtimeconfig.json
+c:\Users\svyat\source\repos\02.09.2021 ContractI\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Data.runtimeconfig.dev.json
+c:\Users\svyat\source\repos\02.09.2021 ContractI\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Data.dll
+c:\Users\svyat\source\repos\02.09.2021 ContractI\ContractInvoice.Data\bin\Debug\net5.0\ref\ContractInvoice.Data.dll
+c:\Users\svyat\source\repos\02.09.2021 ContractI\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Data.pdb
+c:\Users\svyat\source\repos\02.09.2021 ContractI\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Model.dll
+c:\Users\svyat\source\repos\02.09.2021 ContractI\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Model.pdb
+c:\Users\svyat\source\repos\02.09.2021 ContractI\ContractInvoice.Data\obj\Debug\net5.0\Data.csproj.AssemblyReference.cache
+c:\Users\svyat\source\repos\02.09.2021 ContractI\ContractInvoice.Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\svyat\source\repos\02.09.2021 ContractI\ContractInvoice.Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+c:\Users\svyat\source\repos\02.09.2021 ContractI\ContractInvoice.Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+c:\Users\svyat\source\repos\02.09.2021 ContractI\ContractInvoice.Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache
+c:\Users\svyat\source\repos\02.09.2021 ContractI\ContractInvoice.Data\obj\Debug\net5.0\Data.csproj.CopyComplete
+c:\Users\svyat\source\repos\02.09.2021 ContractI\ContractInvoice.Data\obj\Debug\net5.0\ContractInvoice.Data.dll
+c:\Users\svyat\source\repos\02.09.2021 ContractI\ContractInvoice.Data\obj\Debug\net5.0\ref\ContractInvoice.Data.dll
+c:\Users\svyat\source\repos\02.09.2021 ContractI\ContractInvoice.Data\obj\Debug\net5.0\ContractInvoice.Data.pdb
+c:\Users\svyat\source\repos\02.09.2021 ContractI\ContractInvoice.Data\obj\Debug\net5.0\Data.genruntimeconfig.cache
+c:\Users\svyat\source\repos\14.09.2021 ContractInvoice\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Data.deps.json
+c:\Users\svyat\source\repos\14.09.2021 ContractInvoice\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Data.runtimeconfig.json
+c:\Users\svyat\source\repos\14.09.2021 ContractInvoice\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Data.runtimeconfig.dev.json
+c:\Users\svyat\source\repos\14.09.2021 ContractInvoice\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Data.dll
+c:\Users\svyat\source\repos\14.09.2021 ContractInvoice\ContractInvoice.Data\bin\Debug\net5.0\ref\ContractInvoice.Data.dll
+c:\Users\svyat\source\repos\14.09.2021 ContractInvoice\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Data.pdb
+c:\Users\svyat\source\repos\14.09.2021 ContractInvoice\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Model.dll
+c:\Users\svyat\source\repos\14.09.2021 ContractInvoice\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Model.pdb
+c:\Users\svyat\source\repos\14.09.2021 ContractInvoice\ContractInvoice.Data\obj\Debug\net5.0\Data.csproj.AssemblyReference.cache
+c:\Users\svyat\source\repos\14.09.2021 ContractInvoice\ContractInvoice.Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\svyat\source\repos\14.09.2021 ContractInvoice\ContractInvoice.Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+c:\Users\svyat\source\repos\14.09.2021 ContractInvoice\ContractInvoice.Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+c:\Users\svyat\source\repos\14.09.2021 ContractInvoice\ContractInvoice.Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache
+c:\Users\svyat\source\repos\14.09.2021 ContractInvoice\ContractInvoice.Data\obj\Debug\net5.0\Data.csproj.CopyComplete
+c:\Users\svyat\source\repos\14.09.2021 ContractInvoice\ContractInvoice.Data\obj\Debug\net5.0\ContractInvoice.Data.dll
+c:\Users\svyat\source\repos\14.09.2021 ContractInvoice\ContractInvoice.Data\obj\Debug\net5.0\ref\ContractInvoice.Data.dll
+c:\Users\svyat\source\repos\14.09.2021 ContractInvoice\ContractInvoice.Data\obj\Debug\net5.0\ContractInvoice.Data.pdb
+c:\Users\svyat\source\repos\14.09.2021 ContractInvoice\ContractInvoice.Data\obj\Debug\net5.0\Data.genruntimeconfig.cache
+c:\Users\svyat\source\repos\30.09.2021 ContractInvoice\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Data.deps.json
+c:\Users\svyat\source\repos\30.09.2021 ContractInvoice\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Data.runtimeconfig.json
+c:\Users\svyat\source\repos\30.09.2021 ContractInvoice\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Data.runtimeconfig.dev.json
+c:\Users\svyat\source\repos\30.09.2021 ContractInvoice\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Data.dll
+c:\Users\svyat\source\repos\30.09.2021 ContractInvoice\ContractInvoice.Data\bin\Debug\net5.0\ref\ContractInvoice.Data.dll
+c:\Users\svyat\source\repos\30.09.2021 ContractInvoice\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Data.pdb
+c:\Users\svyat\source\repos\30.09.2021 ContractInvoice\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Model.dll
+c:\Users\svyat\source\repos\30.09.2021 ContractInvoice\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Model.pdb
+c:\Users\svyat\source\repos\30.09.2021 ContractInvoice\ContractInvoice.Data\obj\Debug\net5.0\Data.csproj.AssemblyReference.cache
+c:\Users\svyat\source\repos\30.09.2021 ContractInvoice\ContractInvoice.Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\svyat\source\repos\30.09.2021 ContractInvoice\ContractInvoice.Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+c:\Users\svyat\source\repos\30.09.2021 ContractInvoice\ContractInvoice.Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+c:\Users\svyat\source\repos\30.09.2021 ContractInvoice\ContractInvoice.Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache
+c:\Users\svyat\source\repos\30.09.2021 ContractInvoice\ContractInvoice.Data\obj\Debug\net5.0\Data.csproj.CopyComplete
+c:\Users\svyat\source\repos\30.09.2021 ContractInvoice\ContractInvoice.Data\obj\Debug\net5.0\ContractInvoice.Data.dll
+c:\Users\svyat\source\repos\30.09.2021 ContractInvoice\ContractInvoice.Data\obj\Debug\net5.0\ref\ContractInvoice.Data.dll
+c:\Users\svyat\source\repos\30.09.2021 ContractInvoice\ContractInvoice.Data\obj\Debug\net5.0\ContractInvoice.Data.pdb
+c:\Users\svyat\source\repos\30.09.2021 ContractInvoice\ContractInvoice.Data\obj\Debug\net5.0\Data.genruntimeconfig.cache
+c:\Users\svyat\source\repos\04.10.2021 ContractInvoice\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Data.deps.json
+c:\Users\svyat\source\repos\04.10.2021 ContractInvoice\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Data.runtimeconfig.json
+c:\Users\svyat\source\repos\04.10.2021 ContractInvoice\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Data.runtimeconfig.dev.json
+c:\Users\svyat\source\repos\04.10.2021 ContractInvoice\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Data.dll
+c:\Users\svyat\source\repos\04.10.2021 ContractInvoice\ContractInvoice.Data\bin\Debug\net5.0\ref\ContractInvoice.Data.dll
+c:\Users\svyat\source\repos\04.10.2021 ContractInvoice\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Data.pdb
+c:\Users\svyat\source\repos\04.10.2021 ContractInvoice\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Model.dll
+c:\Users\svyat\source\repos\04.10.2021 ContractInvoice\ContractInvoice.Data\bin\Debug\net5.0\ContractInvoice.Model.pdb
+c:\Users\svyat\source\repos\04.10.2021 ContractInvoice\ContractInvoice.Data\obj\Debug\net5.0\Data.csproj.AssemblyReference.cache
+c:\Users\svyat\source\repos\04.10.2021 ContractInvoice\ContractInvoice.Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\svyat\source\repos\04.10.2021 ContractInvoice\ContractInvoice.Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+c:\Users\svyat\source\repos\04.10.2021 ContractInvoice\ContractInvoice.Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+c:\Users\svyat\source\repos\04.10.2021 ContractInvoice\ContractInvoice.Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache
+c:\Users\svyat\source\repos\04.10.2021 ContractInvoice\ContractInvoice.Data\obj\Debug\net5.0\Data.csproj.CopyComplete
+c:\Users\svyat\source\repos\04.10.2021 ContractInvoice\ContractInvoice.Data\obj\Debug\net5.0\ContractInvoice.Data.dll
+c:\Users\svyat\source\repos\04.10.2021 ContractInvoice\ContractInvoice.Data\obj\Debug\net5.0\ref\ContractInvoice.Data.dll
+c:\Users\svyat\source\repos\04.10.2021 ContractInvoice\ContractInvoice.Data\obj\Debug\net5.0\ContractInvoice.Data.pdb
+c:\Users\svyat\source\repos\04.10.2021 ContractInvoice\ContractInvoice.Data\obj\Debug\net5.0\Data.genruntimeconfig.cache
